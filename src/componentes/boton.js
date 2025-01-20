@@ -1,4 +1,5 @@
 import React from "react";
+//HOLA JUANAN fssdlhaflñg
 
 const Boton = ({ color, text, alert }) => {
 
